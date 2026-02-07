@@ -2,15 +2,6 @@
 
 This scenario should encompass all of the topics provided in the module. Now that you’ve delved into creating a new class in Python it is now time to practice this concept.
 
-## The Scenario
-
-You are tasked with building two different classes to aid with representing and modeling a bookstore. First will be a book object to allow for reading an online book and the second will be a coffee object as another object carried by the store. Both objects will have several attributes and functions to be called. 
-
-## Tools & Resources
-
-* [GitHub Repo](https://github.com/learn-co-curriculum/python-oop1-lab)
-* [Python Classes](https://docs.python.org/3/tutorial/classes.html)
-
 ## Instructions
 
 ### Set Up
@@ -112,35 +103,3 @@ Coffee
   * tip():
     * Will print “This coffee is great, here’s a tip!”
     * Will increase price by 1 
-
-#### Step 3: Push Feature Branch and Merge
-
-* Push feature branch and open a PR on GitHub
-* Merge to main
-
-### Task 4: Document and Maintain
-
-Best Practice documentation steps:
-* Add comments to code to explain purpose and logic. This clarifies intent / functionality of code to other developers
-* Add screenshot of completed work included in Markdown in README.
-* Update README text to reflect the functionality of the application following https://makeareadme.com.
-* Delete any stale branches on GitHub
-* Remove unnecessary/commented out code
-* If needed, update git ignore to remove sensitive data 
-
-## Save your work and push to GitHub
-
-Before you submit your solution, you need to save your progress with git.
-1. Add your changes to the staging area by executing git add .
-2. Create a commit by executing git commit -m "Your commit message"
-3. Push your commits to GitHub by executing git push origin main or git push origin master , depending on the name of your branch (use git branch to check on which branch you are).
-
-## Submission and Grading Criteria
-
-1. Use the rubric in Canvas as a guide for how this lab is graded.
-2. Your submission will be automatically scored in CodeGrade, using the most recent commit. Remember to make sure you have pushed your commit to GitHub before submitting your assignment. 
-3. You can review your submission in CodeGrade and see your final score in your Canvas gradebook.
-4. When you are ready to submit, click the ***Load Lab: Object Oriented Programming (OOP)- Part 1- Bookstore*** button in Canvas to launch CodeGrade.
-  * Click on + Create Submission. Connect your repository for this lab.
-  * For additional information on submitting assignments in CodeGrade: [Getting Started in Canvas](https://help.codegrade.com/for-students/getting-started/getting-started-in-canvas)
-
